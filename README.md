@@ -1,2 +1,2 @@
-# multiple_pdf_langchain_gemini
-multiple pdf file use langchain with gemini
+# multiple_pdf_langchain
+multiple pdf file use langchain
